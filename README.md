@@ -20,6 +20,8 @@ Install all the packages from requirments.txt
 
 ## Running the experiments
 
+there are three type of get_poison_batch function special designed for theory varification, privacy protection application, data poison application. choose the one you wanna use.
+
 ## BAFV Settings
 if_imprint = True      # True (default): embed private imprints during training; False: regular training without private imprints for comparison tests.
 if_posttrain = False   # False (default): regular training; True: continuous training after global model convergence, for comparison tests.
