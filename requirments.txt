@@ -1,0 +1,5 @@
+
+numpy==1.23.5
+tensorboardx==2.6.2
+matplotlib==3.7.1
+tqdm==4.65.0
